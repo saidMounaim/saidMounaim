@@ -10,5 +10,10 @@
   <img src="https://thumbs.gfycat.com/SpeedyMealyCornsnake-size_restricted.gif" width="350" />
 </p>
 
-------------
-<p align="center">⭐️ From <a href="https://github.com/saidMounaim">@saidMounaim</a></p>
+<br/>
+<p align="center">
+  <a href="https://github.com/saidMounaim/" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidMounaim&theme=vue&show_icons=true" />
+  </a>
+ </p>
+<br/>
