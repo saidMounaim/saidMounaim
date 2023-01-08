@@ -9,11 +9,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Don’t use  “findOneAndUpdate” mongoose methods for updating password](https://saidmounaim.hashnode.dev/dont-use-findoneandupdate-mongoose-methods-for-updating-password)
 - [JavaScript Date Cheatsheet](https://saidmounaim.hashnode.dev/javascript-date-cheatsheet)
 - [Best Tailwind CSS Component Collections](https://saidmounaim.hashnode.dev/best-tailwind-css-component-collections)
 - [Local Storage Vs Session Storage in JavaScript](https://saidmounaim.hashnode.dev/local-storage-vs-session-storage-in-javascript)
 - [Keep up to date with the latest React News](https://saidmounaim.hashnode.dev/keep-up-to-date-with-the-latest-react-news)
-- [Screen Wake Lock API In JavaScript](https://saidmounaim.hashnode.dev/screen-wake-lock-api-in-javascript)
 <!-- HASHNODE:END -->
 
 <br/>
