@@ -1,9 +1,7 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://mounaim.dev" target="_blank">Said MOUNAIM</a> 👋</h1>
-  
-  <p>
-    <b>Full Stack JavaScript Developer</b>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Said+MOUNAIM;Full+Stack+JavaScript+Developer" alt="Typing SVG" />
   </p>
 
   <p>
